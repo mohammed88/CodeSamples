@@ -1,5 +1,6 @@
 /* 
-	 AbsDistinct
+	https://codility.com/demo/results/demoN7PWQY-BRE/
+	AbsDistinct
 	Compute number of distinct absolute values of sorted array elements.
 	
 	Task description
